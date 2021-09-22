@@ -1,0 +1,4 @@
+map_name: ww2global40_ryuzaki
+games:
+- {game_name: World War II Global 1940 Ryuzaki's Special Setup, file_name: ww2global40_ryuzaki.xml}
+version: 0
